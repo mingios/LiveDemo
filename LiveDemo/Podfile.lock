@@ -1,0 +1,34 @@
+PODS:
+  - FBRetainCycleDetector (0.1.4)
+  - MJRefresh (3.5.0)
+  - MLeaksFinder (1.0.0):
+    - FBRetainCycleDetector
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - MJRefresh
+  - MLeaksFinder
+  - SDWebImage
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - FBRetainCycleDetector
+    - MJRefresh
+    - MLeaksFinder
+    - SDWebImage
+    - SnapKit
+
+SPEC CHECKSUMS:
+  FBRetainCycleDetector: 46f8179bbb1c587deee3ea838a1a3ee02acf5015
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  MLeaksFinder: 8c435bd2f6d070af18cff082b503b21adc130fc0
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 8d758eb2f297b0183604cfc555adfdac46c24662
+
+COCOAPODS: 1.9.3
